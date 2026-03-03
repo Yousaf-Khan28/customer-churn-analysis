@@ -70,7 +70,7 @@ Result:
 For 100,000 customers at $70 ARPU, this equates to ~$2M+ annual revenue preserved.
 
 ### Dashboard Preview
-![Churn Dashboard](dashboards/Customer_Churn_Dashboard.png)
+![Churn Dashboard](dashboards/churn_dashboard.png)
 
 ### Business Recommendation
 	•	Test free TechSupport intervention via A/B testing
